@@ -1,5 +1,6 @@
 Portfolio — Edgar Gaillard (R3.12)
 ==================================
+Live site: https://edggaillard-pixel.github.io/portfolio/
 Static site, vanilla JavaScript (no framework, no CMS, no build step).
 
   index.html   minimal page shell (just loads the CSS and the two scripts)
